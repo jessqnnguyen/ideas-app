@@ -14,9 +14,11 @@
  *= require_self
  */
 
-body { padding-top: 100px; }
+body { padding-top: 60px; }
 footer { 
 	margin-top: 150px; 
 }
+
+
 /*table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }*/
